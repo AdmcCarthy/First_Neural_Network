@@ -1,5 +1,5 @@
 ====================
-First_Neural_Network
+First Neural Network
 ====================
 
 *Implementation of a neural network to predict bike sharing rides*
