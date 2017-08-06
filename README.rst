@@ -7,6 +7,9 @@ First_Neural_Network
 Getting Started
 ---------------
 
+Re-run the `notebook <https://github.com/AdmcCarthy/First_Neural_Network/blob/master/Your_first_neural_network.ipynb>`_ or 
+view the `page <https://admccarthy.github.io/First_Neural_Network/>`_ describing the work.
+
 Material used
 -------------
 
